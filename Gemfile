@@ -17,4 +17,4 @@ gem "jquery-rails"
 # gem 'debugger'
 
 # Patched guard rails
-gem 'guard-rails',  :git => 'git://github.com/robotex82/guard-rails.git', :branch => 'better-engine-support'
+gem 'guard-rails',  :git => 'https://github.com/robotex82/guard-rails.git', :branch => 'better-engine-support'
